@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="350px" height="350px" viewBox="0 0 350 350" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.2 (7799) - http://www.bohemiancoding.com/sketch -->
+    <title>2_blue_circled</title>
+    <description>Created with Sketch.</description>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="circled-blue" sketch:type="MSLayerGroup">
+            <circle id="Oval-1" fill="#3C5A9A" sketch:type="MSShapeGroup" cx="176" cy="175" r="175"></circle>
+            <path d="M229,58.4982012 L229,95.6083706 C216.554286,95.4938452 214.281633,95.7157689 205.244898,95.6083706 C193.584082,95.4697605 186.83102,101.334642 186.899347,114.319023 C186.899347,122.041379 186.818776,133.852489 186.877551,141.81176 L227.530612,141.81176 C225.816327,155.572998 224.102041,169.33571 222.387755,183.099896 L186.877551,183.099896 L186.877551,289.023625 L144.510204,289.023625 L144.510204,183.099896 L109,183.099896 L109,141.81176 C120.835673,141.81176 132.674776,141.81176 144.513143,141.145989 C144.572653,110.882277 144.310122,99.3144723 145.979592,95.6083706 C151.266939,73.170235 167.644,58.5131927 192.510204,57.0236249 C197.57102,56.9417859 202.388163,57.1054639 207.44898,57.0236249 L229,58.4982012 Z" id="Color_Fill_1-4" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>
