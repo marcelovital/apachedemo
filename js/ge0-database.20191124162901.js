@@ -3,12 +3,11 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 
 
 $(document).ready(function() {
-r=function(){dpi=window.devicePixelRatio;$('.js').attr('src', (dpi>1) ? 'images/eingesetztes-bild-202-1.png' : 'images/eingesetztes-bild-101-1.png');
-$('.js2').attr('src', (dpi>1) ? 'images/eingesetztes-bild-372.png' : 'images/eingesetztes-bild-186.png');
-};
+r=function(){dpi=window.devicePixelRatio;$('.js6').attr('src', (dpi>1) ? 'images/logo-redhat-a-color-rgb-490.png' : 'images/logo-redhat-a-color-rgb-245.png');
+$('.js7').attr('src', (dpi>1) ? 'images/eingesetztes-bild-372.png' : 'images/eingesetztes-bild-186.png');};
 if(!window.HTMLPictureElement){r();}
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(i,e){$(e).click(function(){var t=e.hash.length>1?$('[name="'+e.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 initMenu($('#m1')[0]);
-$('.c2').Stickyfill();
+$('.c22').Stickyfill();
 
 });
