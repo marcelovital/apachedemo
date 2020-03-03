@@ -8,6 +8,6 @@ $('.js5').attr('src', (dpi>1) ? 'images/eingesetztes-bild-372.png' : 'images/ein
 if(!window.HTMLPictureElement){r();}
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(i,e){$(e).click(function(){var t=e.hash.length>1?$('[name="'+e.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 initMenu($('#m1')[0]);
-$('.c12').Stickyfill();
+$('.c11').Stickyfill();
 
 });
