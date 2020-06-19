@@ -3,14 +3,11 @@ $.fn.hasAttr = function(name) { var attr = $(this).attr(name); return typeof att
 
 
 $(document).ready(function() {
-r=function(){dpi=window.devicePixelRatio;$('.js7').attr('src', (dpi>1) ? 'images/ibm_logo-r-_redhat_lockup_horiz_rev_color_rgb-592.png' : 'images/ibm_logo-r-_redhat_lockup_horiz_rev_color_rgb-296.png');
-
-$('.js9').attr('src', (dpi>1) ? 'images/eingesetztes-bild-928.png' : 'images/eingesetztes-bild-464.png');
-$('.js10').attr('src', (dpi>1) ? 'images/eingesetztes-bild-562.png' : 'images/eingesetztes-bild-281.png');
-$('.js11').attr('src', (dpi>1) ? 'images/eingesetztes-bild-372.png' : 'images/eingesetztes-bild-186.png');};
+r=function(){dpi=window.devicePixelRatio;$('.js4').attr('src', (dpi>1) ? 'images/ibm_logo-r-_redhat_lockup_horiz_rev_color_rgb-592.png' : 'images/ibm_logo-r-_redhat_lockup_horiz_rev_color_rgb-296.png');
+$('.js5').attr('src', (dpi>1) ? 'images/eingesetztes-bild-372.png' : 'images/eingesetztes-bild-186.png');};
 if(!window.HTMLPictureElement){r();}
 (function(){$('a[href^="#"]:not(.allowConsent,.noConsent,.denyConsent,.removeConsent)').each(function(i,e){$(e).click(function(){var t=e.hash.length>1?$('[name="'+e.hash.slice(1)+'"]').offset().top:0;return $("html, body").animate({scrollTop:t},400),!1})})})();
 initMenu($('#m1')[0]);
-$('.c34').Stickyfill();
+$('.c22').Stickyfill();
 
 });
